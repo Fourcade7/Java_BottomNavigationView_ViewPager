@@ -4,8 +4,9 @@ BottomNavigationView Swipe
 ![image](https://user-images.githubusercontent.com/60017090/137576121-ea35dabb-b17c-4608-b707-51353a1a2c94.png)
 
 //MyPager.class
-    public class MyPager extends FragmentStatePagerAdapter {
 
+    public class MyPager extends FragmentStatePagerAdapter {
+    
     public MyPager(@NonNull FragmentManager fm) {
         super(fm);
     }
